@@ -2,3 +2,4 @@
 Projeto para monitoramento de APIS
 status:projeto em teste local
 Alteração feita diretamente no GitHub
+status:projeto em teste remoto

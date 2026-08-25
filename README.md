@@ -1,5 +1,5 @@
 # Monitor API
 Projeto para monitoramento de APIS
-status:projeto em teste local
+status:versao LOCAL
 Alteração feita diretamente no GitHub
 status:projeto em teste remoto

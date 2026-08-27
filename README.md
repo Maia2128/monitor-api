@@ -4,3 +4,4 @@ status:versao LOCAL
 Alteração feita diretamente no GitHub
 status:versao REMOTA
 A API possui monitoramento de status
+A API possui health check.
